@@ -164,11 +164,6 @@
     "latitude": 53.2945885877,
     "longitude": -3.5826252049
   },
-  "AGR": {
-    "station_name": "Angel Road Rail Station",
-    "latitude": 51.612404791,
-    "longitude": -0.0487664558
-  },
   "AGS": {
     "station_name": "Argyle Street Rail Station",
     "latitude": 55.8572976321,
@@ -1108,11 +1103,6 @@
     "station_name": "Bishop Auckland Rail Station",
     "latitude": 54.6572030524,
     "longitude": -1.6777249795
-  },
-  "BIB": {
-    "station_name": "Bishop's Lydeard",
-    "latitude": 51.0545801757,
-    "longitude": -3.194339982
   },
   "BIC": {
     "station_name": "Billericay Rail Station",
@@ -4509,11 +4499,6 @@
     "latitude": 51.2272634789,
     "longitude": -2.3099932958
   },
-  "FRR": {
-    "station_name": "Frosterley Rail Station",
-    "latitude": 54.7270012002,
-    "longitude": -1.9644205566
-  },
   "FRS": {
     "station_name": "Forsinard Rail Station",
     "latitude": 58.3568834527,
@@ -4638,11 +4623,6 @@
     "station_name": "Garelochhead Rail Station",
     "latitude": 56.0798548957,
     "longitude": -4.8256979183
-  },
-  "GCL": {
-    "station_name": "Glasgow Central Low Level Rail Station",
-    "latitude": 55.858673532,
-    "longitude": -4.2584774599
   },
   "GCR": {
     "station_name": "Gloucester Rail Station",
@@ -4938,11 +4918,6 @@
     "station_name": "Gospel Oak Rail Station",
     "latitude": 51.5553362208,
     "longitude": -0.1507445033
-  },
-  "GQL": {
-    "station_name": "Glasgow Queen Street Low Level Rail Station",
-    "latitude": 55.8623403235,
-    "longitude": -4.2506358523
   },
   "GRA": {
     "station_name": "Grantham Rail Station",
@@ -5454,11 +5429,6 @@
     "latitude": 51.2181503748,
     "longitude": -2.9721630499
   },
-  "HII": {
-    "station_name": "Highbury & Islington Rail Station",
-    "latitude": 51.5460878363,
-    "longitude": -0.1037411643
-  },
   "HIL": {
     "station_name": "Hillside Rail Station",
     "latitude": 53.6221202826,
@@ -5934,11 +5904,6 @@
     "latitude": 53.5251206717,
     "longitude": -3.0570655927
   },
-  "HTR": {
-    "station_name": "Heathrow Airport Central Bus Stn (Rail-Air)",
-    "latitude": 51.4710943355,
-    "longitude": -0.4532864637
-  },
   "HTW": {
     "station_name": "Hartwood Rail Station",
     "latitude": 55.8114760965,
@@ -6014,11 +5979,6 @@
     "latitude": 53.1853727789,
     "longitude": -3.0320807812
   },
-  "HWF": {
-    "station_name": "Heathrow Terminal 4 (Rail-Air)",
-    "latitude": 51.4593290581,
-    "longitude": -0.4469469959
-  },
   "HWH": {
     "station_name": "Haltwhistle Rail Station",
     "latitude": 54.9678535356,
@@ -6049,11 +6009,6 @@
     "latitude": 51.7177454662,
     "longitude": -0.344647203
   },
-  "HWX": {
-    "station_name": "Heathrow Airport Terminal 5",
-    "latitude": 51.4712499812,
-    "longitude": -0.4893495013
-  },
   "HWY": {
     "station_name": "High Wycombe Rail Station",
     "latitude": 51.6295875603,
@@ -6063,6 +6018,11 @@
     "station_name": "Hoveton & Wroxham Rail Station",
     "latitude": 52.715595961,
     "longitude": 1.4080190978
+  },
+  "HXX": {
+    "station_name": "Heathrow Terminals 1-3 Rail Station",
+    "latitude": 51.4714046459,
+    "longitude": -0.4543126778
   },
   "HYB": {
     "station_name": "Honeybourne Rail Station",
@@ -6989,11 +6949,6 @@
     "latitude": 53.8048444025,
     "longitude": -2.4486582114
   },
-  "LHR": {
-    "station_name": "Heathrow Terminals 1-3 Rail Station",
-    "latitude": 51.4714046459,
-    "longitude": -0.4543126778
-  },
   "LHS": {
     "station_name": "Limehouse Rail Station",
     "latitude": 51.5125361684,
@@ -7013,11 +6968,6 @@
     "station_name": "Lidlington Rail Station",
     "latitude": 52.0415453254,
     "longitude": -0.5589061726
-  },
-  "LIF": {
-    "station_name": "Lichfield Trent Valley High Level Rail Station",
-    "latitude": 52.6869091229,
-    "longitude": -1.8002367619
   },
   "LIH": {
     "station_name": "Leigh (Kent) Rail Station",
@@ -7389,11 +7339,6 @@
     "latitude": 53.4047793126,
     "longitude": -2.9919576763
   },
-  "LVL": {
-    "station_name": "Liverpool Lime Street Low Level Rail Station",
-    "latitude": 53.4082223458,
-    "longitude": -2.9777466846
-  },
   "LVM": {
     "station_name": "Levenshulme Rail Station",
     "latitude": 53.44417758,
@@ -7668,11 +7613,6 @@
     "station_name": "Morfa Mawddach Rail Station",
     "latitude": 52.7071419715,
     "longitude": -4.032178053
-  },
-  "MFD": {
-    "station_name": "Minffordd Ffestiniog Railway Station",
-    "latitude": 52.9258888953,
-    "longitude": -4.0842164454
   },
   "MFF": {
     "station_name": "Minffordd Rail Station",
@@ -8449,11 +8389,6 @@
     "latitude": 50.5295709354,
     "longitude": -3.5991818536
   },
-  "NTB": {
-    "station_name": "Norton Bridge Rail Station",
-    "latitude": 52.8667125875,
-    "longitude": -2.1905418489
-  },
   "NTC": {
     "station_name": "Newton St Cyres Rail Station",
     "latitude": 50.7789165834,
@@ -8639,11 +8574,6 @@
     "latitude": 53.4619123452,
     "longitude": -2.9633147359
   },
-  "OPY": {
-    "station_name": "Oxford Parkway Rail Station",
-    "latitude": 51.8040758686,
-    "longitude": -1.2744681129
-  },
   "ORE": {
     "station_name": "Ore Rail Station",
     "latitude": 50.8669427332,
@@ -8703,6 +8633,11 @@
     "station_name": "Oxenholme Lake District Rail Station",
     "latitude": 54.3049347745,
     "longitude": -2.7218718643
+  },
+  "OXP": {
+    "station_name": "Oxford Parkway Rail Station",
+    "latitude": 51.8040758686,
+    "longitude": -1.2744681129
   },
   "OXS": {
     "station_name": "Oxshott Rail Station",
@@ -8973,11 +8908,6 @@
     "station_name": "Pembroke Dock Rail Station",
     "latitude": 51.693923213,
     "longitude": -4.9380817217
-  },
-  "PMG": {
-    "station_name": "Porthmadog Harbour Ffestiniog Railway Station",
-    "latitude": 52.9240544206,
-    "longitude": -4.1268252563
   },
   "PMH": {
     "station_name": "Portsmouth Harbour Rail Station",
@@ -9434,11 +9364,6 @@
     "latitude": 54.6099002966,
     "longitude": -1.1126759256
   },
-  "RBU": {
-    "station_name": "Reading Rail Station",
-    "latitude": 51.4581455251,
-    "longitude": -0.9716410129
-  },
   "RCA": {
     "station_name": "Risca & Pontymister Rail Station",
     "latitude": 51.6058480469,
@@ -9543,11 +9468,6 @@
     "station_name": "Reigate Rail Station",
     "latitude": 51.241955247,
     "longitude": -0.2037998793
-  },
-  "REL": {
-    "station_name": "Retford Low Level Rail Station",
-    "latitude": 53.314084796,
-    "longitude": -0.944772788
   },
   "RET": {
     "station_name": "Retford Rail Station",
@@ -10349,11 +10269,6 @@
     "latitude": 51.7458905703,
     "longitude": -2.2794958307
   },
-  "SHV": {
-    "station_name": "Southsea Hoverport",
-    "latitude": 50.7853157325,
-    "longitude": -1.0999768593
-  },
   "SHW": {
     "station_name": "Shawford Rail Station",
     "latitude": 51.0221166807,
@@ -10649,11 +10564,6 @@
     "latitude": 52.2315789405,
     "longitude": -0.2473922859
   },
-  "SNP": {
-    "station_name": "Stanhope Rail Station",
-    "latitude": 54.7433166118,
-    "longitude": -2.003270368
-  },
   "SNR": {
     "station_name": "Sanderstead Rail Station",
     "latitude": 51.3482809474,
@@ -10803,11 +10713,6 @@
     "station_name": "Sutton Parkway Rail Station",
     "latitude": 53.1141094224,
     "longitude": -1.2455659505
-  },
-  "SPL": {
-    "station_name": "London St Pancras International LL Rail Station",
-    "latitude": 51.5321682332,
-    "longitude": -0.1273170838
   },
   "SPN": {
     "station_name": "Spooner Row Rail Station",
@@ -11033,11 +10938,6 @@
     "station_name": "London St Pancras International Rail Station",
     "latitude": 51.5323906044,
     "longitude": -0.1271637715
-  },
-  "STQ": {
-    "station_name": "Southampton Town Quay",
-    "latitude": 50.8951417965,
-    "longitude": -1.4058217125
   },
   "STR": {
     "station_name": "Stranraer Rail Station",
@@ -11293,11 +11193,6 @@
     "station_name": "Taffs Well Rail Station",
     "latitude": 51.5408038104,
     "longitude": -3.2629475716
-  },
-  "TAH": {
-    "station_name": "Tamworth High Level Rail Station",
-    "latitude": 52.6374896703,
-    "longitude": -1.6864429533
   },
   "TAI": {
     "station_name": "Tain Rail Station",
@@ -11723,11 +11618,6 @@
     "station_name": "Twyford Rail Station",
     "latitude": 51.4755339055,
     "longitude": -0.8632740226
-  },
-  "TYB": {
-    "station_name": "Tan-y-Bwlch Ffestiniog Railway Station",
-    "latitude": 52.9543847212,
-    "longitude": -4.0115223964
   },
   "TYC": {
     "station_name": "Ty Croes Rail Station",
@@ -12349,11 +12239,6 @@
     "latitude": 53.4280187313,
     "longitude": -3.069705311
   },
-  "WLH": {
-    "station_name": "Wolsingham Rail Station",
-    "latitude": 54.7263219512,
-    "longitude": -1.8835277375
-  },
   "WLI": {
     "station_name": "Welling Rail Station",
     "latitude": 51.4647970094,
@@ -12949,11 +12834,6 @@
     "latitude": 50.9445178485,
     "longitude": -2.6134285854
   },
-  "ZBU": {
-    "station_name": "Southease - Piddinghoe Road",
-    "latitude": 50.8296187442,
-    "longitude": 0.0178462867
-  },
   "ZCW": {
     "station_name": "Canada Water Rail Station",
     "latitude": 51.4979894212,
@@ -12964,7 +12844,7 @@
     "latitude": 51.5201671742,
     "longitude": -0.1051789136
   },
-  "ZWL": {
+  "ZLW": {
     "station_name": "Whitechapel Rail Station",
     "latitude": 51.5194686455,
     "longitude": -0.0597305213

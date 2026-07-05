@@ -32,7 +32,6 @@
 "AFS","Ashford (Surrey) Rail Station",51.4365050918,-0.4680505426
 "AFV","Ansdell & Fairhaven Rail Station",53.7414755302,-2.9930315929
 "AGL","Abergele & Pensarn Rail Station",53.2945885877,-3.5826252049
-"AGR","Angel Road Rail Station",51.612404791,-0.0487664558
 "AGS","Argyle Street Rail Station",55.8572976321,-4.2506797284
 "AGT","Aldrington Rail Station",50.8363759964,-0.1837938786
 "AGV","Abergavenny Rail Station",51.8166929204,-3.0096529786
@@ -221,7 +220,6 @@
 "BHR","Builth Road Rail Station",52.1693300616,-3.4270408474
 "BHS","Brockholes Rail Station",53.5969856546,-1.7696922549
 "BIA","Bishop Auckland Rail Station",54.6572030524,-1.6777249795
-"BIB","Bishop's Lydeard",51.0545801757,-3.194339982
 "BIC","Billericay Rail Station",51.6288849556,0.4186576571
 "BID","Bidston Rail Station",53.4091524654,-3.0785590277
 "BIF","Barrow-in-Furness Rail Station",54.1190066162,-3.2261172119
@@ -901,7 +899,6 @@
 "FRM","Fareham Rail Station",50.8530232101,-1.1920245124
 "FRN","Fearn Rail Station",57.778126445,-3.9939370006
 "FRO","Frome Rail Station",51.2272634789,-2.3099932958
-"FRR","Frosterley Rail Station",54.7270012002,-1.9644205566
 "FRS","Forsinard Rail Station",58.3568834527,-3.8968870161
 "FRT","Frant Rail Station",51.1040247127,0.2945703279
 "FRW","Fairwater Rail Station",51.4939058847,-3.2338488071
@@ -927,7 +924,6 @@
 "GBL","Gainsborough Lea Road Rail Station",53.3861086871,-0.7685809379
 "GBS","Goring-by-Sea Rail Station",50.8177112854,-0.4330585625
 "GCH","Garelochhead Rail Station",56.0798548957,-4.8256979183
-"GCL","Glasgow Central Low Level Rail Station",55.858673532,-4.2584774599
 "GCR","Gloucester Rail Station",51.8655641361,-2.2384843439
 "GCT","Great Coates Rail Station",53.5757759251,-0.1302350444
 "GCW","Glan Conwy Rail Station",53.2674361965,-3.797731864
@@ -987,7 +983,6 @@
 "GOX","Goxhill Rail Station",53.6767222975,-0.3371266253
 "GPK","Grange Park Rail Station",51.6426082109,-0.0973320762
 "GPO","Gospel Oak Rail Station",51.5553362208,-0.1507445033
-"GQL","Glasgow Queen Street Low Level Rail Station",55.8623403235,-4.2506358523
 "GRA","Grantham Rail Station",52.9064924179,-0.6424450707
 "GRB","Great Bentley Rail Station",51.8517695139,1.0651844079
 "GRC","Great Chesterford Rail Station",52.0598200469,0.1935488673
@@ -1090,7 +1085,6 @@
 "HIB","High Brooms Rail Station",51.1494010314,0.2773589795
 "HID","Hall i' th' Wood Rail Station",53.5974371057,-2.413107867
 "HIG","Highbridge & Burnham-on-Sea Rail Station",51.2181503748,-2.9721630499
-"HII","Highbury & Islington Rail Station",51.5460878363,-0.1037411643
 "HIL","Hillside Rail Station",53.6221202826,-3.0247137204
 "HIN","Hindley Rail Station",53.5422508577,-2.575501122
 "HIP","Highams Park Rail Station",51.6083496344,-0.000196266
@@ -1186,7 +1180,6 @@
 "HTH","Handforth Rail Station",53.3465081231,-2.2136326157
 "HTN","Hatton (Warks) Rail Station",52.2952909349,-1.6729642026
 "HTO","Hightown Rail Station",53.5251206717,-3.0570655927
-"HTR","Heathrow Airport Central Bus Stn (Rail-Air)",51.4710943355,-0.4532864637
 "HTW","Hartwood Rail Station",55.8114760965,-3.8393119766
 "HTY","Hattersley Rail Station",53.4452970666,-2.0403099081
 "HUB","Hunmanby Rail Station",54.1739432859,-0.3145719426
@@ -1202,16 +1195,15 @@
 "HWB","Hawarden Bridge Rail Station",53.2180881941,-3.0327167308
 "HWC","Harwich Town Rail Station",51.9441574404,1.2867119437
 "HWD","Hawarden Rail Station",53.1853727789,-3.0320807812
-"HWF","Heathrow Terminal 4 (Rail-Air)",51.4593290581,-0.4469469959
 "HWH","Haltwhistle Rail Station",54.9678535356,-2.4635724781
 "HWI","Horwich Parkway Rail Station",53.5781205097,-2.5396661144
 "HWM","Harlow Mill Rail Station",51.7903700355,0.1323343315
 "HWN","Harlow Town Rail Station",51.7810744782,0.0951587231
 "HWV","Heathrow Terminal 5 Rail Station",51.4700517143,-0.490569702
 "HWW","How Wood (Herts) Rail Station",51.7177454662,-0.344647203
-"HWX","Heathrow Airport Terminal 5",51.4712499812,-0.4893495013
 "HWY","High Wycombe Rail Station",51.6295875603,-0.7453905204
 "HXM","Hoveton & Wroxham Rail Station",52.715595961,1.4080190978
+"HXX","Heathrow Terminals 1-3 Rail Station",51.4714046459,-0.4543126778
 "HYB","Honeybourne Rail Station",52.1016109574,-1.8337328413
 "HYC","Hyde Central Rail Station",53.451897881,-2.0852494833
 "HYD","Heyford Rail Station",51.9191971629,-1.2992524985
@@ -1397,12 +1389,10 @@
 "LHE","Loch Eil Outward Bound Rail Station",56.8552494299,-5.1915632271
 "LHM","Lealholm Rail Station",54.4606042623,-0.8257310498
 "LHO","Langho Rail Station",53.8048444025,-2.4486582114
-"LHR","Heathrow Terminals 1-3 Rail Station",51.4714046459,-0.4543126778
 "LHS","Limehouse Rail Station",51.5125361684,-0.0397760782
 "LHW","Lochwinnoch Rail Station",55.7871497964,-4.6160573245
 "LIC","Lichfield City Rail Station",52.6801615881,-1.8254127247
 "LID","Lidlington Rail Station",52.0415453254,-0.5589061726
-"LIF","Lichfield Trent Valley High Level Rail Station",52.6869091229,-1.8002367619
 "LIH","Leigh (Kent) Rail Station",51.1938967547,0.2105218236
 "LIN","Linlithgow Rail Station",55.9764464658,-3.5958472904
 "LIP","Liphook Rail Station",51.0713092222,-0.8002098038
@@ -1477,7 +1467,6 @@
 "LVC","Liverpool Central Rail Station",53.4046152032,-2.9791681938
 "LVG","Livingston South Rail Station",55.8716872521,-3.5015651841
 "LVJ","Liverpool James Street Rail Station",53.4047793126,-2.9919576763
-"LVL","Liverpool Lime Street Low Level Rail Station",53.4082223458,-2.9777466846
 "LVM","Levenshulme Rail Station",53.44417758,-2.1926682497
 "LVN","Littlehaven Rail Station",51.0797455182,-0.3079538284
 "LVT","Lisvane & Thornhill Rail Station",51.5445785441,-3.1856117371
@@ -1533,7 +1522,6 @@
 "MEX","Mexborough Rail Station",53.4910099658,-1.2885625776
 "MEY","Merryton Rail Station",55.7487021227,-3.9782420669
 "MFA","Morfa Mawddach Rail Station",52.7071419715,-4.032178053
-"MFD","Minffordd Ffestiniog Railway Station",52.9258888953,-4.0842164454
 "MFF","Minffordd Rail Station",52.926145345,-4.0849726521
 "MFH","Milford Haven Rail Station",51.7149845991,-5.0410051649
 "MFL","Mount Florida Rail Station",55.8265491352,-4.2611173526
@@ -1689,7 +1677,6 @@
 "NSG","New Southgate Rail Station",51.6141146074,-0.1430125641
 "NSH","North Sheen Rail Station",51.4651527407,-0.2878532427
 "NTA","Newton Abbot Rail Station",50.5295709354,-3.5991818536
-"NTB","Norton Bridge Rail Station",52.8667125875,-2.1905418489
 "NTC","Newton St Cyres Rail Station",50.7789165834,-3.589404542
 "NTH","Neath Rail Station",51.6623638663,-3.8072343482
 "NTL","Netley Rail Station",50.8748975168,-1.3418931628
@@ -1727,7 +1714,6 @@
 "OLY","Ockley Rail Station",51.1515064148,-0.3359877818
 "OMS","Ormskirk Rail Station",53.56928696,-2.8811915199
 "OPK","Orrell Park Rail Station",53.4619123452,-2.9633147359
-"OPY","Oxford Parkway Rail Station",51.8040758686,-1.2744681129
 "ORE","Ore Rail Station",50.8669427332,0.591596612
 "ORN","Old Roan Rail Station",53.4869093953,-2.9510705094
 "ORP","Orpington Rail Station",51.3732951318,0.0891167615
@@ -1740,6 +1726,7 @@
 "OVR","Overton Rail Station",51.2542901889,-1.2592504239
 "OXF","Oxford Rail Station",51.753499533,-1.2701353856
 "OXN","Oxenholme Lake District Rail Station",54.3049347745,-2.7218718643
+"OXP","Oxford Parkway Rail Station",51.8040758686,-1.2744681129
 "OXS","Oxshott Rail Station",51.3363929984,-0.3623961961
 "OXT","Oxted Rail Station",51.2579045834,-0.0048073736
 "PAD","London Paddington Rail Station",51.515995347,-0.1761493939
@@ -1794,7 +1781,6 @@
 "PMA","Portsmouth Arms Rail Station",50.9569944809,-3.9506012138
 "PMB","Pembroke Rail Station",51.6729545258,-4.9060582576
 "PMD","Pembroke Dock Rail Station",51.693923213,-4.9380817217
-"PMG","Porthmadog Harbour Ffestiniog Railway Station",52.9240544206,-4.1268252563
 "PMH","Portsmouth Harbour Rail Station",50.7969498727,-1.1078273211
 "PMP","Plumpton Rail Station",50.9286565684,-0.0601544007
 "PMR","Peckham Rye Rail Station",51.470033016,-0.0693887302
@@ -1886,7 +1872,6 @@
 "RAY","Raynes Park Rail Station",51.4091709872,-0.2301271492
 "RBR","Robertsbridge Rail Station",50.9849282663,0.468811527
 "RBS","British Steel Redcar Rail Station",54.6099002966,-1.1126759256
-"RBU","Reading Rail Station",51.4581455251,-0.9716410129
 "RCA","Risca & Pontymister Rail Station",51.6058480469,-3.0922175896
 "RCC","Redcar Central Rail Station",54.6162371859,-1.0708827236
 "RCD","Rochdale Rail Station",53.6103213876,-2.1535226045
@@ -1908,7 +1893,6 @@
 "RED","Redruth Rail Station",50.2332412948,-5.2259636066
 "REE","Reedham (Norfolk) Rail Station",52.5645273067,1.5596750305
 "REI","Reigate Rail Station",51.241955247,-0.2037998793
-"REL","Retford Low Level Rail Station",53.314084796,-0.944772788
 "RET","Retford Rail Station",53.3151729691,-0.9478832051
 "RFD","Rochford Rail Station",51.5817322678,0.7023320206
 "RFY","Rock Ferry Rail Station",53.3726649286,-3.0108263238
@@ -2069,7 +2053,6 @@
 "SHS","Shotts Rail Station",55.81864295,-3.7983094064
 "SHT","Shotton Rail Station",53.2125551564,-3.0384238251
 "SHU","Stonehouse Rail Station",51.7458905703,-2.2794958307
-"SHV","Southsea Hoverport",50.7853157325,-1.0999768593
 "SHW","Shawford Rail Station",51.0221166807,-1.3277625973
 "SHY","Shipley Rail Station",53.8330646823,-1.7734929691
 "SIA","Southend Airport Rail Station",51.5686727167,0.7050788997
@@ -2129,7 +2112,6 @@
 "SNL","Stoneleigh Rail Station",51.3633975389,-0.248640927
 "SNN","Swinton (Manchester) Rail Station",53.5148477623,-2.3374594966
 "SNO","St Neots Rail Station",52.2315789405,-0.2473922859
-"SNP","Stanhope Rail Station",54.7433166118,-2.003270368
 "SNR","Sanderstead Rail Station",51.3482809474,-0.0936522427
 "SNS","Staines Rail Station",51.4324535002,-0.5031448916
 "SNT","Stanlow & Thornton Rail Station",53.2783765388,-2.8420514589
@@ -2160,7 +2142,6 @@
 "SPH","Shepherds Well Rail Station",51.1884029231,1.229940616
 "SPI","Spital Rail Station",53.3399518307,-2.9939065057
 "SPK","Sutton Parkway Rail Station",53.1141094224,-1.2455659505
-"SPL","London St Pancras International LL Rail Station",51.5321682332,-0.1273170838
 "SPN","Spooner Row Rail Station",52.535018036,1.0864987701
 "SPO","Spondon Rail Station",52.9122360781,-1.4110901354
 "SPP","Shippea Hill Rail Station",52.4302290785,0.4133683213
@@ -2206,7 +2187,6 @@
 "STN","Stonehaven Rail Station",56.9668074474,-2.2253042533
 "STO","South Tottenham Rail Station",51.580372482,-0.0720773948
 "STP","London St Pancras International Rail Station",51.5323906044,-0.1271637715
-"STQ","Southampton Town Quay",50.8951417965,-1.4058217125
 "STR","Stranraer Rail Station",54.9096119416,-5.0247136457
 "STS","Saltash Rail Station",50.407341292,-4.2091429608
 "STT","Stewarton Rail Station",55.6821494442,-4.5180405975
@@ -2258,7 +2238,6 @@
 "TAC","Tackley Rail Station",51.8812440038,-1.2975180267
 "TAD","Tadworth Rail Station",51.2916337745,-0.2359396303
 "TAF","Taffs Well Rail Station",51.5408038104,-3.2629475716
-"TAH","Tamworth High Level Rail Station",52.6374896703,-1.6864429533
 "TAI","Tain Rail Station",57.814403344,-4.052050677
 "TAL","Talsarnau Rail Station",52.9043217775,-4.0681617526
 "TAM","Tamworth Rail Station",52.6374897095,-1.6864577321
@@ -2344,7 +2323,6 @@
 "TWI","Twickenham Rail Station",51.4500290431,-0.3303719704
 "TWN","Town Green Rail Station",53.5428211891,-2.9044849794
 "TWY","Twyford Rail Station",51.4755339055,-0.8632740226
-"TYB","Tan-y-Bwlch Ffestiniog Railway Station",52.9543847212,-4.0115223964
 "TYC","Ty Croes Rail Station",53.2225738882,-4.4747394282
 "TYG","Tygwyn Rail Station",52.8937988543,-4.0786617087
 "TYL","Tyndrum Lower Rail Station",56.4333287654,-4.7148053177
@@ -2469,7 +2447,6 @@
 "WLE","Whittlesea Rail Station",52.5495457817,-0.1189720533
 "WLF","Whittlesford Parkway Rail Station",52.1035981209,0.1656457011
 "WLG","Wallasey Grove Road Rail Station",53.4280187313,-3.069705311
-"WLH","Wolsingham Rail Station",54.7263219512,-1.8835277375
 "WLI","Welling Rail Station",51.4647970094,0.1017165383
 "WLM","Williamwood Rail Station",55.7936801397,-4.2903211229
 "WLN","Wellington (Shropshire) Rail Station",52.7013189006,-2.5171628549
@@ -2589,8 +2566,7 @@
 "YSR","Ystrad Rhondda Rail Station",51.6436413608,-3.4666955023
 "YVJ","Yeovil Junction Rail Station",50.9247392604,-2.6124572985
 "YVP","Yeovil Pen Mill Rail Station",50.9445178485,-2.6134285854
-"ZBU","Southease - Piddinghoe Road",50.8296187442,0.0178462867
 "ZCW","Canada Water Rail Station",51.4979894212,-0.0496935895
 "ZFD","Farringdon (London) Rail Station",51.5201671742,-0.1051789136
-"ZWL","Whitechapel Rail Station",51.5194686455,-0.0597305213
+"ZLW","Whitechapel Rail Station",51.5194686455,-0.0597305213
 "ZZT","Lintley Rail Station",54.853558347,-2.4883171256
