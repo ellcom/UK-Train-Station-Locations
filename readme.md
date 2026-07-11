@@ -26,7 +26,7 @@ I couldn't find this information as a complete downloadable set from anywhere on
 If you think this data can be improved or modified, please send pull request.
 
 ## Thanks
-Thanks to [@xmac1701](https://github.com/xmac1701), [@jwestw](https://github.com/jwestw) and [@process404](https://github.com/process404) for their pull requests and changes to the project.
+Thanks to [@xmac1701](https://github.com/xmac1701) and [@jwestw](https://github.com/jwestw) for their pull requests and changes to the project.
 
 
 
