@@ -2,7 +2,7 @@
 
 I have complied a list of the train stations in the United Kingdom, the list contains:
 
-- 3Alpha Code, formally CRS (Computer Reservation System) or NRS (National Reservation System) Code
+- Station Code(3Alpha Code), formally CRS (Computer Reservation System) or NRS (National Reservation System) Code
 - Station Name
 - Latitude
 - Longitude
@@ -11,7 +11,7 @@ The data is available as a
 
 - CSV
 - JSON Array
-- JSON Dictionary with 3Alpha as the Key
+- JSON Dictionary with Station code as the Key
 
 
 

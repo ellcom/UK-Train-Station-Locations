@@ -35,7 +35,7 @@
     "longitude": -4.3741839689
   },
   "ABW": {
-    "station_name": "Abbey Wood (London)",
+    "station_name": "Abbey Wood",
     "latitude": 51.4910611665,
     "longitude": 0.1214217457
   },
@@ -45,7 +45,7 @@
     "longitude": -2.194434998
   },
   "ACB": {
-    "station_name": "Acton Bridge",
+    "station_name": "Acton Bridge (Cheshire)",
     "latitude": 53.2665207003,
     "longitude": -2.6031255204
   },
@@ -85,7 +85,7 @@
     "longitude": -2.3695474455
   },
   "ACT": {
-    "station_name": "Ascot",
+    "station_name": "Ascot (Berks)",
     "latitude": 51.4062421592,
     "longitude": -0.6758156963
   },
@@ -110,7 +110,7 @@
     "longitude": -2.213882234
   },
   "ADL": {
-    "station_name": "Adlington (Lancs)",
+    "station_name": "Adlington (Lancashire)",
     "latitude": 53.6132582182,
     "longitude": -2.603069152
   },
@@ -245,7 +245,7 @@
     "longitude": -1.6366531856
   },
   "ALN": {
-    "station_name": "Althorne",
+    "station_name": "Althorne (Essex)",
     "latitude": 51.647874589,
     "longitude": 0.7525126479
   },
@@ -379,11 +379,6 @@
     "latitude": 52.0212455205,
     "longitude": -0.6323124906
   },
-  "APN": {
-    "station_name": "Newcastle Airport Metro",
-    "latitude": 55.0359539314,
-    "longitude": -1.7110611354
-  },
   "APP": {
     "station_name": "Appleby",
     "latitude": 54.5803531214,
@@ -420,7 +415,7 @@
     "longitude": -0.2662942214
   },
   "ARM": {
-    "station_name": "Armadale (W Lothian)",
+    "station_name": "Armadale (West Lothian)",
     "latitude": 55.8857041796,
     "longitude": -3.6954045698
   },
@@ -454,6 +449,11 @@
     "latitude": 51.9989119042,
     "longitude": -2.1087526816
   },
+  "ASD": {
+    "station_name": "Ashley Down",
+    "latitude": 51.4786762001,
+    "longitude": -2.5771154001
+  },
   "ASF": {
     "station_name": "Ashfield",
     "latitude": 55.8889152278,
@@ -473,6 +473,11 @@
     "station_name": "Askam",
     "latitude": 54.1889365481,
     "longitude": -3.2045108901
+  },
+  "ASL": {
+    "station_name": "Ashington",
+    "latitude": 55.1830893716,
+    "longitude": -1.5730779947
   },
   "ASN": {
     "station_name": "Addlestone",
@@ -759,6 +764,11 @@
     "latitude": 53.6210542572,
     "longitude": -1.793433127
   },
+  "BBZ": {
+    "station_name": "Bristol Brabazon",
+    "latitude": null,
+    "longitude": null
+  },
   "BCB": {
     "station_name": "Burscough Bridge",
     "latitude": 53.6052706223,
@@ -824,6 +834,11 @@
     "latitude": 51.4646472415,
     "longitude": -0.0375111039
   },
+  "BCZ": {
+    "station_name": "Brent Cross West",
+    "latitude": 51.5687000001,
+    "longitude": -0.2269000001
+  },
   "BDA": {
     "station_name": "Brundall",
     "latitude": 52.6195070541,
@@ -874,6 +889,11 @@
     "latitude": 53.7969375902,
     "longitude": -1.7529651428
   },
+  "BDS": {
+    "station_name": "Bond Street (Elizabeth line)",
+    "latitude": 51.5143512776,
+    "longitude": -0.1488733292
+  },
   "BDT": {
     "station_name": "Bridlington",
     "latitude": 54.0841498279,
@@ -923,6 +943,11 @@
     "station_name": "Bedworth",
     "latitude": 52.4793121537,
     "longitude": -1.4673840381
+  },
+  "BEJ": {
+    "station_name": "Bedlington",
+    "latitude": 55.1406295626,
+    "longitude": -1.5692438254
   },
   "BEL": {
     "station_name": "Beauly",
@@ -1054,6 +1079,16 @@
     "latitude": 55.9370336273,
     "longitude": -4.7113815133
   },
+  "BGV": {
+    "station_name": "Barking Riverside",
+    "latitude": 51.5191080001,
+    "longitude": 0.1147640001
+  },
+  "BGY": {
+    "station_name": "Balgray",
+    "latitude": 55.7870770001,
+    "longitude": -4.3815520001
+  },
   "BHC": {
     "station_name": "Balloch",
     "latitude": 56.0029254961,
@@ -1145,7 +1180,7 @@
     "longitude": -4.1136857366
   },
   "BIP": {
-    "station_name": "Bishopstone",
+    "station_name": "Bishopstone (Sussex)",
     "latitude": 50.7801363721,
     "longitude": 0.0827845347
   },
@@ -1265,7 +1300,7 @@
     "longitude": -1.7536396791
   },
   "BLE": {
-    "station_name": "Bramley (West Yorks)",
+    "station_name": "Bramley (West Yorkshire)",
     "latitude": 53.8053627078,
     "longitude": -1.6372110715
   },
@@ -1278,6 +1313,11 @@
     "station_name": "Bellshill",
     "latitude": 55.8170582892,
     "longitude": -4.0244880674
+  },
+  "BLI": {
+    "station_name": "Blyth Bebside",
+    "latitude": 55.1272873769,
+    "longitude": -1.5585877592
   },
   "BLK": {
     "station_name": "Blackrod",
@@ -1308,6 +1348,11 @@
     "station_name": "Belper",
     "latitude": 53.0237754008,
     "longitude": -1.482508538
+  },
+  "BLS": {
+    "station_name": "Bishops Lydeard Bus",
+    "latitude": null,
+    "longitude": null
   },
   "BLT": {
     "station_name": "Blantyre",
@@ -1340,7 +1385,7 @@
     "longitude": -2.6607719493
   },
   "BMC": {
-    "station_name": "Bromley Cross",
+    "station_name": "Bromley Cross (Lancs)",
     "latitude": 53.61405521,
     "longitude": -2.4108970227
   },
@@ -1410,7 +1455,7 @@
     "longitude": -2.0473389281
   },
   "BMY": {
-    "station_name": "Bramley (Hants)",
+    "station_name": "Bramley (Hampshire)",
     "latitude": 51.330292014,
     "longitude": -1.0609834929
   },
@@ -1460,7 +1505,7 @@
     "longitude": -4.2229911506
   },
   "BNM": {
-    "station_name": "Burnham (Berks)",
+    "station_name": "Burnham (Buckinghamshire)",
     "latitude": 51.5235064374,
     "longitude": -0.6463561439
   },
@@ -1468,11 +1513,6 @@
     "station_name": "Barnstaple",
     "latitude": 51.0739644921,
     "longitude": -4.0631402025
-  },
-  "BNR": {
-    "station_name": "Brockley Whins",
-    "latitude": 54.9595502728,
-    "longitude": -1.4613667215
   },
   "BNS": {
     "station_name": "Barnes",
@@ -1554,15 +1594,20 @@
     "latitude": 53.4466353518,
     "longitude": -2.9957327823
   },
+  "BOW": {
+    "station_name": "Bow Street",
+    "latitude": 52.4392199001,
+    "longitude": -4.0319599001
+  },
+  "BPA": {
+    "station_name": "Beaulieu Park",
+    "latitude": 51.7626912001,
+    "longitude": 0.5153919001
+  },
   "BPB": {
     "station_name": "Blackpool Pleasure Beach",
     "latitude": 53.7879651191,
     "longitude": -3.0538730548
-  },
-  "BPC": {
-    "station_name": "Penychain",
-    "latitude": 52.9028982685,
-    "longitude": -4.3387298378
   },
   "BPK": {
     "station_name": "Brookmans Park",
@@ -1580,7 +1625,7 @@
     "longitude": -3.0489347667
   },
   "BPT": {
-    "station_name": "Bishopton",
+    "station_name": "Bishopton (Renfrewshire)",
     "latitude": 55.9022563659,
     "longitude": -4.5004702272
   },
@@ -1795,7 +1840,7 @@
     "longitude": -0.4096836565
   },
   "BTD": {
-    "station_name": "Bolton-Upon-Dearne",
+    "station_name": "Bolton-upon-Dearne",
     "latitude": 53.5189640059,
     "longitude": -1.3115478698
   },
@@ -1854,8 +1899,13 @@
     "latitude": 54.4576909817,
     "longitude": -1.092985447
   },
+  "BTW": {
+    "station_name": "Strand",
+    "latitude": 51.4760266201,
+    "longitude": -3.1793115481
+  },
   "BTY": {
-    "station_name": "Bentley (Hants)",
+    "station_name": "Bentley (Hampshire)",
     "latitude": 51.1812286564,
     "longitude": -0.8681101444
   },
@@ -1890,7 +1940,7 @@
     "longitude": -0.5787296823
   },
   "BUI": {
-    "station_name": "Burnside (Strathclyde)",
+    "station_name": "Burnside (South Lanarkshire)",
     "latitude": 55.8169207887,
     "longitude": -4.2023757518
   },
@@ -1908,6 +1958,11 @@
     "station_name": "Butlers Lane",
     "latitude": 52.5924838341,
     "longitude": -1.8380133232
+  },
+  "BUN": {
+    "station_name": "Butetown",
+    "latitude": null,
+    "longitude": null
   },
   "BUO": {
     "station_name": "Bursledon",
@@ -1980,7 +2035,7 @@
     "longitude": -0.3590920111
   },
   "BWS": {
-    "station_name": "Barrow upon Soar",
+    "station_name": "Barrow-upon-Soar",
     "latitude": 52.7493534585,
     "longitude": -1.1448359281
   },
@@ -2003,6 +2058,11 @@
     "station_name": "Bexleyheath",
     "latitude": 51.4634986628,
     "longitude": 0.1337619475
+  },
+  "BXT": {
+    "station_name": "Brixham Bus",
+    "latitude": null,
+    "longitude": null
   },
   "BXW": {
     "station_name": "Box Hill & Westhumble",
@@ -2050,7 +2110,7 @@
     "longitude": -3.2733735249
   },
   "BYK": {
-    "station_name": "Bentley (S Yorks)",
+    "station_name": "Bentley (South Yorkshire)",
     "latitude": 53.5439546043,
     "longitude": -1.1509511595
   },
@@ -2094,8 +2154,13 @@
     "latitude": 57.2794851095,
     "longitude": -3.8282023232
   },
+  "CAI": {
+    "station_name": "Cardigan Finches Square",
+    "latitude": null,
+    "longitude": null
+  },
   "CAK": {
-    "station_name": "Cark",
+    "station_name": "Cark & Cartmel",
     "latitude": 54.177962852,
     "longitude": -2.9740635997
   },
@@ -2113,6 +2178,11 @@
     "station_name": "Cannock",
     "latitude": 52.6861755085,
     "longitude": -2.0221416067
+  },
+  "CAP": {
+    "station_name": "Capel Curig Bryn-Llys",
+    "latitude": null,
+    "longitude": null
   },
   "CAR": {
     "station_name": "Carlisle",
@@ -2165,12 +2235,12 @@
     "longitude": 0.1374844883
   },
   "CBH": {
-    "station_name": "Cambridge Heath (London)",
+    "station_name": "Cambridge Heath",
     "latitude": 51.5319721727,
     "longitude": -0.0572520963
   },
   "CBK": {
-    "station_name": "Cranbrook",
+    "station_name": "Cranbrook (Devon)",
     "latitude": 50.7500793373,
     "longitude": -3.4204288894
   },
@@ -2203,6 +2273,11 @@
     "station_name": "Canterbury West",
     "latitude": 51.284271981,
     "longitude": 1.0753330452
+  },
+  "CBX": {
+    "station_name": "Cameron Bridge",
+    "latitude": 56.1902100001,
+    "longitude": -3.0453500001
   },
   "CBY": {
     "station_name": "Charlbury",
@@ -2305,12 +2380,12 @@
     "longitude": -1.7081695542
   },
   "CEL": {
-    "station_name": "Chelford",
+    "station_name": "Chelford (Cheshire)",
     "latitude": 53.270324898,
     "longitude": -2.2805759167
   },
   "CES": {
-    "station_name": "Cressing",
+    "station_name": "Cressing (Essex)",
     "latitude": 51.8523442178,
     "longitude": 0.5779891355
   },
@@ -2329,6 +2404,11 @@
     "latitude": 51.4447386824,
     "longitude": -0.0247654501
   },
+  "CFC": {
+    "station_name": "Corfe Castle",
+    "latitude": null,
+    "longitude": null
+  },
   "CFD": {
     "station_name": "Castleford",
     "latitude": 53.7240933891,
@@ -2340,7 +2420,7 @@
     "longitude": -4.2283107571
   },
   "CFH": {
-    "station_name": "Chafford Hundred",
+    "station_name": "Chafford Hundred Lakeside",
     "latitude": 51.4855557794,
     "longitude": 0.2874752389
   },
@@ -2590,7 +2670,7 @@
     "longitude": -0.7503911592
   },
   "CLN": {
-    "station_name": "Chapeltown",
+    "station_name": "Chapeltown (South Yorkshire)",
     "latitude": 53.46235275,
     "longitude": -1.4662753767
   },
@@ -2678,6 +2758,11 @@
     "station_name": "Cromer",
     "latitude": 52.9301115682,
     "longitude": 1.2928430662
+  },
+  "CMS": {
+    "station_name": "Cambridge South",
+    "latitude": 52.1742564491,
+    "longitude": 0.1315267202
   },
   "CMY": {
     "station_name": "Crossmyloof",
@@ -2865,7 +2950,7 @@
     "longitude": -2.6719110922
   },
   "CPY": {
-    "station_name": "Clapham (N Yorks)",
+    "station_name": "Clapham (North Yorkshire)",
     "latitude": 54.1053962118,
     "longitude": -2.4103793434
   },
@@ -2975,7 +3060,7 @@
     "longitude": -0.1697719787
   },
   "CSD": {
-    "station_name": "Cobham & Stoke d'Abernon",
+    "station_name": "Cobham & Stoke D'Abernon",
     "latitude": 51.3180974283,
     "longitude": -0.389323466
   },
@@ -3129,6 +3214,11 @@
     "latitude": 56.3169774524,
     "longitude": -3.0087585168
   },
+  "CUS": {
+    "station_name": "Custom House (Elizabeth line)",
+    "latitude": 51.5096390001,
+    "longitude": 0.0258940001
+  },
   "CUW": {
     "station_name": "Clunderwen",
     "latitude": 51.8405496199,
@@ -3150,7 +3240,7 @@
     "longitude": 0.7585305397
   },
   "CWD": {
-    "station_name": "Creswell (Derbys)",
+    "station_name": "Creswell",
     "latitude": 53.2641317653,
     "longitude": -1.2163932459
   },
@@ -3175,7 +3265,7 @@
     "longitude": -3.01621063
   },
   "CWN": {
-    "station_name": "Cowden",
+    "station_name": "Cowden (Kent)",
     "latitude": 51.1556324991,
     "longitude": 0.1100591285
   },
@@ -3188,6 +3278,11 @@
     "station_name": "Crowhurst",
     "latitude": 50.8885735262,
     "longitude": 0.5013656464
+  },
+  "CWX": {
+    "station_name": "Canary Wharf (Elizabeth line)",
+    "latitude": 51.5061000001,
+    "longitude": 0.0157800001
   },
   "CYB": {
     "station_name": "Cefn-y-Bedd",
@@ -3248,6 +3343,11 @@
     "station_name": "Darlington",
     "latitude": 54.5204574957,
     "longitude": -1.5473329223
+  },
+  "DAS": {
+    "station_name": "Darlaston",
+    "latitude": 52.5763800001,
+    "longitude": -2.0195300001
   },
   "DAT": {
     "station_name": "Datchet",
@@ -3335,7 +3435,7 @@
     "longitude": -2.9712080372
   },
   "DEN": {
-    "station_name": "Dean",
+    "station_name": "Dean (Wilts)",
     "latitude": 51.0424533409,
     "longitude": -1.6348555051
   },
@@ -3355,7 +3455,7 @@
     "longitude": 0.2192754223
   },
   "DFE": {
-    "station_name": "Dunfermline Town",
+    "station_name": "Dunfermline City",
     "latitude": 56.0681835684,
     "longitude": -3.4525246789
   },
@@ -3430,7 +3530,7 @@
     "longitude": -3.5783964404
   },
   "DKG": {
-    "station_name": "Dorking",
+    "station_name": "Dorking (Main)",
     "latitude": 51.2409257562,
     "longitude": -0.3242277761
   },
@@ -3475,7 +3575,7 @@
     "longitude": -2.9888562179
   },
   "DLT": {
-    "station_name": "Dalton",
+    "station_name": "Dalton (Cumbria)",
     "latitude": 54.1542436887,
     "longitude": -3.1790013184
   },
@@ -3575,7 +3675,7 @@
     "longitude": -0.9109721492
   },
   "DOC": {
-    "station_name": "Dockyard (Plymouth)",
+    "station_name": "Dockyard (Devonport)",
     "latitude": 50.3821534706,
     "longitude": -4.1759268375
   },
@@ -3583,6 +3683,11 @@
     "station_name": "Dodworth",
     "latitude": 53.5443407648,
     "longitude": -1.5316921206
+  },
+  "DOG": {
+    "station_name": "Dolgellau Eldon Square",
+    "latitude": null,
+    "longitude": null
   },
   "DOL": {
     "station_name": "Dolau",
@@ -3610,7 +3715,7 @@
     "longitude": 0.3656997898
   },
   "DPD": {
-    "station_name": "Dorking Deepdene",
+    "station_name": "Dorking (Deepdene)",
     "latitude": 51.2388000949,
     "longitude": -0.3246201844
   },
@@ -3824,18 +3929,13 @@
     "latitude": 51.4376339068,
     "longitude": -3.206146908
   },
-  "EBL": {
-    "station_name": "East Boldon",
-    "latitude": 54.9464212649,
-    "longitude": -1.4203275453
-  },
   "EBN": {
     "station_name": "Eastbourne",
     "latitude": 50.7693712403,
     "longitude": 0.2812755597
   },
   "EBR": {
-    "station_name": "Edenbridge",
+    "station_name": "Edenbridge (Kent)",
     "latitude": 51.2084314886,
     "longitude": 0.0606723709
   },
@@ -3850,7 +3950,7 @@
     "longitude": -3.1961117844
   },
   "ECC": {
-    "station_name": "Eccles",
+    "station_name": "Eccles (Manchester)",
     "latitude": 53.4853736806,
     "longitude": -2.3345132824
   },
@@ -3903,6 +4003,11 @@
     "station_name": "Edmonton Green",
     "latitude": 51.6249290203,
     "longitude": -0.0610875153
+  },
+  "EDS": {
+    "station_name": "Edginswell",
+    "latitude": null,
+    "longitude": null
   },
   "EDW": {
     "station_name": "East Dulwich",
@@ -3970,7 +4075,7 @@
     "longitude": -4.1802138231
   },
   "ELD": {
-    "station_name": "Earlswood (Surrey)",
+    "station_name": "Earlswood Surrey",
     "latitude": 51.2273248317,
     "longitude": -0.1707971701
   },
@@ -4004,6 +4109,11 @@
     "latitude": 51.6530715786,
     "longitude": -0.2800577261
   },
+  "ELT": {
+    "station_name": "East Linton",
+    "latitude": 55.9864440001,
+    "longitude": -2.6612430001
+  },
   "ELW": {
     "station_name": "Eltham",
     "latitude": 51.4556421114,
@@ -4013,6 +4123,11 @@
     "station_name": "Ely",
     "latitude": 52.391244221,
     "longitude": 0.2668510603
+  },
+  "EMA": {
+    "station_name": "East Midlands Airport via Derby (By Bus)",
+    "latitude": null,
+    "longitude": null
   },
   "EMD": {
     "station_name": "East Midlands Parkway",
@@ -4065,7 +4180,7 @@
     "longitude": -0.098700214
   },
   "EPS": {
-    "station_name": "Epsom",
+    "station_name": "Epsom (Surrey)",
     "latitude": 51.334389925,
     "longitude": -0.2687531384
   },
@@ -4110,7 +4225,7 @@
     "longitude": -1.350073969
   },
   "ESM": {
-    "station_name": "Elsenham",
+    "station_name": "Elsenham (Essex)",
     "latitude": 51.920551892,
     "longitude": 0.228097059
   },
@@ -4145,7 +4260,7 @@
     "longitude": -1.9473049925
   },
   "EWD": {
-    "station_name": "Earlswood (West Midlands)",
+    "station_name": "Earlswood West Midlands",
     "latitude": 52.3665938407,
     "longitude": -1.861161636
   },
@@ -4520,7 +4635,7 @@
     "longitude": -0.5078355516
   },
   "FSB": {
-    "station_name": "Fishbourne",
+    "station_name": "Fishbourne (Sussex)",
     "latitude": 50.8390401424,
     "longitude": -0.8150655546
   },
@@ -4755,7 +4870,7 @@
     "longitude": -1.3420084086
   },
   "GLM": {
-    "station_name": "Gillingham (Kent)",
+    "station_name": "Gillingham Kent",
     "latitude": 51.3865631854,
     "longitude": 0.5498787442
   },
@@ -4775,7 +4890,7 @@
     "longitude": -0.7938035599
   },
   "GLT": {
-    "station_name": "Glenrothes with Thornton",
+    "station_name": "Glenrothes With Thornton",
     "latitude": 56.1623481523,
     "longitude": -3.1430172976
   },
@@ -4800,7 +4915,7 @@
     "longitude": -0.0756224261
   },
   "GMG": {
-    "station_name": "Garth (Bridgend)",
+    "station_name": "Garth (Mid Glamorgan)",
     "latitude": 51.5964572422,
     "longitude": -3.6414648286
   },
@@ -4865,7 +4980,7 @@
     "longitude": -3.0371715591
   },
   "GOD": {
-    "station_name": "Godalming",
+    "station_name": "Godalming(Surrey)",
     "latitude": 51.1865810902,
     "longitude": -0.6188424046
   },
@@ -5000,7 +5115,7 @@
     "longitude": -4.2194356583
   },
   "GSN": {
-    "station_name": "Garston (Herts)",
+    "station_name": "Garston (Hertfordshire)",
     "latitude": 51.6866190925,
     "longitude": -0.3817173062
   },
@@ -5110,7 +5225,7 @@
     "longitude": 1.6230311744
   },
   "HAF": {
-    "station_name": "Heathrow Terminal 4",
+    "station_name": "Heathrow Terminal 4 Rail",
     "latitude": 51.458265962,
     "longitude": -0.4454428215
   },
@@ -5125,7 +5240,7 @@
     "longitude": 0.4449605383
   },
   "HAL": {
-    "station_name": "Hale",
+    "station_name": "Hale (Manchester)",
     "latitude": 53.3787324238,
     "longitude": -2.3473557978
   },
@@ -5178,6 +5293,11 @@
     "station_name": "Hebden Bridge",
     "latitude": 53.7376009105,
     "longitude": -2.0090600757
+  },
+  "HBL": {
+    "station_name": "Headbolt Lane",
+    "latitude": 53.4928400001,
+    "longitude": -2.8797800001
   },
   "HBN": {
     "station_name": "Hollingbourne",
@@ -5420,12 +5540,12 @@
     "longitude": 0.2773589795
   },
   "HID": {
-    "station_name": "Hall i' th' Wood",
+    "station_name": "Hall-i-th-Wood",
     "latitude": 53.5974371057,
     "longitude": -2.413107867
   },
   "HIG": {
-    "station_name": "Highbridge & Burnham-on-Sea",
+    "station_name": "Highbridge & Burnham",
     "latitude": 51.2181503748,
     "longitude": -2.9721630499
   },
@@ -5525,7 +5645,7 @@
     "longitude": -0.3207835997
   },
   "HLN": {
-    "station_name": "Harlington (Beds)",
+    "station_name": "Harlington (Bedfordshire)",
     "latitude": 51.9620697513,
     "longitude": -0.4956650065
   },
@@ -5645,7 +5765,7 @@
     "longitude": -0.102263463
   },
   "HNK": {
-    "station_name": "Hinckley",
+    "station_name": "Hinckley (Leics)",
     "latitude": 52.5350144159,
     "longitude": -1.3719130606
   },
@@ -5700,7 +5820,7 @@
     "longitude": -2.9770090629
   },
   "HOP": {
-    "station_name": "Hope (Derbyshire)",
+    "station_name": "Hope Derbyshire",
     "latitude": 53.3461251048,
     "longitude": -1.7298854225
   },
@@ -5755,7 +5875,7 @@
     "longitude": -0.3514563418
   },
   "HPE": {
-    "station_name": "Hope (Flintshire)",
+    "station_name": "Hope Flintshire",
     "latitude": 53.117371815,
     "longitude": -3.03687622
   },
@@ -5783,6 +5903,11 @@
     "station_name": "Harling Road",
     "latitude": 52.4537084708,
     "longitude": 0.9091672143
+  },
+  "HRE": {
+    "station_name": "Horden",
+    "latitude": 54.7608000001,
+    "longitude": -1.3035000001
   },
   "HRH": {
     "station_name": "Horsham",
@@ -5855,7 +5980,7 @@
     "longitude": -0.1459258012
   },
   "HSL": {
-    "station_name": "Haslemere",
+    "station_name": "Haslemere(Surrey)",
     "latitude": 51.0886414366,
     "longitude": -0.7191423803
   },
@@ -5885,7 +6010,7 @@
     "longitude": -0.3685792009
   },
   "HTF": {
-    "station_name": "Hartford",
+    "station_name": "Hartford (Cheshire)",
     "latitude": 53.2417720752,
     "longitude": -2.5536278419
   },
@@ -5895,7 +6020,7 @@
     "longitude": -2.2136326157
   },
   "HTN": {
-    "station_name": "Hatton (Warks)",
+    "station_name": "Hatton",
     "latitude": 52.2952909349,
     "longitude": -1.6729642026
   },
@@ -6000,12 +6125,12 @@
     "longitude": 0.0951587231
   },
   "HWV": {
-    "station_name": "Heathrow Terminal 5",
+    "station_name": "Heathrow Terminal 5 Rail",
     "latitude": 51.4700517143,
     "longitude": -0.490569702
   },
   "HWW": {
-    "station_name": "How Wood (Herts)",
+    "station_name": "How Wood (Hertfordshire)",
     "latitude": 51.7177454662,
     "longitude": -0.344647203
   },
@@ -6020,7 +6145,7 @@
     "longitude": 1.4080190978
   },
   "HXX": {
-    "station_name": "Heathrow Terminals 1-3",
+    "station_name": "Heathrow Terminal 2 & 3 Rail",
     "latitude": 51.4714046459,
     "longitude": -0.4543126778
   },
@@ -6064,6 +6189,11 @@
     "latitude": 55.8797471979,
     "longitude": -4.314653649
   },
+  "HYO": {
+    "station_name": "Hay On Wye Castle",
+    "latitude": null,
+    "longitude": null
+  },
   "HYR": {
     "station_name": "Haydons Road",
     "latitude": 51.4254457568,
@@ -6083,11 +6213,6 @@
     "station_name": "Hinchley Wood",
     "latitude": 51.3749950976,
     "longitude": -0.3405015776
-  },
-  "IBM": {
-    "station_name": "IBM (Greenock)",
-    "latitude": 55.9294397123,
-    "longitude": -4.8272199389
   },
   "IFD": {
     "station_name": "Ilford",
@@ -6125,7 +6250,7 @@
     "longitude": -2.6115187679
   },
   "INE": {
-    "station_name": "Ince & Elton",
+    "station_name": "Ince & Elton (Cheshire)",
     "latitude": 53.2766213459,
     "longitude": -2.8165221852
   },
@@ -6194,6 +6319,11 @@
     "latitude": 51.8257581652,
     "longitude": -1.2381632634
   },
+  "IVA": {
+    "station_name": "Inverness Airport",
+    "latitude": 57.5331970001,
+    "longitude": -4.0556930001
+  },
   "IVR": {
     "station_name": "Iver",
     "latitude": 51.5085027345,
@@ -6215,12 +6345,12 @@
     "longitude": -1.9132076451
   },
   "JHN": {
-    "station_name": "Johnstone",
+    "station_name": "Johnstone (Renfrewshire)",
     "latitude": 55.8347024844,
     "longitude": -4.5036207425
   },
   "JOH": {
-    "station_name": "Johnston (Pembrokeshire)",
+    "station_name": "Johnston (Pembs)",
     "latitude": 51.7567579295,
     "longitude": -4.9963630908
   },
@@ -6364,6 +6494,11 @@
     "latitude": 52.3844946608,
     "longitude": -2.2384665613
   },
+  "KIH": {
+    "station_name": "Kings Heath",
+    "latitude": 52.4314100001,
+    "longitude": -1.8929700001
+  },
   "KIL": {
     "station_name": "Kildonan",
     "latitude": 58.1707935283,
@@ -6375,7 +6510,7 @@
     "longitude": -4.0521889967
   },
   "KIR": {
-    "station_name": "Kirkby",
+    "station_name": "Kirkby (Merseyside)",
     "latitude": 53.4862048537,
     "longitude": -2.9028281809
   },
@@ -6390,7 +6525,7 @@
     "longitude": -1.2671800273
   },
   "KKB": {
-    "station_name": "Kirkby in Ashfield",
+    "station_name": "Kirkby-in-Ashfield",
     "latitude": 53.1001156743,
     "longitude": -1.2530543087
   },
@@ -6540,7 +6675,7 @@
     "longitude": -1.5727265434
   },
   "KPA": {
-    "station_name": "Kensington (Olympia)",
+    "station_name": "Kensington Olympia",
     "latitude": 51.4978982211,
     "longitude": -0.2103405047
   },
@@ -6555,12 +6690,12 @@
     "longitude": -3.9984909836
   },
   "KSL": {
-    "station_name": "Kearsley",
+    "station_name": "Kearsley (Manchester)",
     "latitude": 53.5441534939,
     "longitude": -2.3751177475
   },
   "KSN": {
-    "station_name": "Kearsney",
+    "station_name": "Kearsney (Kent)",
     "latitude": 51.1493801653,
     "longitude": 1.2720927524
   },
@@ -6583,6 +6718,11 @@
     "station_name": "Kentish Town",
     "latitude": 51.550495644,
     "longitude": -0.1403392037
+  },
+  "KTR": {
+    "station_name": "Kintore",
+    "latitude": 57.2435110001,
+    "longitude": -2.3502500001
   },
   "KTW": {
     "station_name": "Kentish Town West",
@@ -6624,6 +6764,11 @@
     "latitude": 55.6559470119,
     "longitude": -4.7099979638
   },
+  "KWR": {
+    "station_name": "Kingswear (for Dartmouth)",
+    "latitude": null,
+    "longitude": null
+  },
   "KYL": {
     "station_name": "Kyle of Lochalsh",
     "latitude": 57.2797467149,
@@ -6645,7 +6790,7 @@
     "longitude": -0.0190151041
   },
   "LAG": {
-    "station_name": "Langwith - Whaley Thorns",
+    "station_name": "Langwith-Whaley Thorns",
     "latitude": 53.2318581892,
     "longitude": -1.2093421054
   },
@@ -6710,7 +6855,7 @@
     "longitude": -1.0864517232
   },
   "LBO": {
-    "station_name": "Loughborough (Leics)",
+    "station_name": "Loughborough",
     "latitude": 52.7789730706,
     "longitude": -1.1959223029
   },
@@ -6750,9 +6895,14 @@
     "longitude": -5.6633772414
   },
   "LCN": {
-    "station_name": "Lincoln Central",
+    "station_name": "Lincoln",
     "latitude": 53.2261072888,
     "longitude": -0.5399222885
+  },
+  "LCP": {
+    "station_name": "Lynton (Bus)",
+    "latitude": null,
+    "longitude": null
   },
   "LCS": {
     "station_name": "Locheilside",
@@ -6790,7 +6940,7 @@
     "longitude": -2.4258582991
   },
   "LEE": {
-    "station_name": "Lee",
+    "station_name": "Lee (London)",
     "latitude": 51.4497532361,
     "longitude": 0.0135186891
   },
@@ -6840,7 +6990,7 @@
     "longitude": 0.6404394965
   },
   "LET": {
-    "station_name": "Letchworth",
+    "station_name": "Letchworth Garden City",
     "latitude": 51.9799709665,
     "longitude": -0.2292371062
   },
@@ -6848,6 +6998,11 @@
     "station_name": "Leuchars",
     "latitude": 56.3750925172,
     "longitude": -2.8937163252
+  },
+  "LEV": {
+    "station_name": "Leven",
+    "latitude": 56.1922990001,
+    "longitude": -3.0019890001
   },
   "LEW": {
     "station_name": "Lewisham",
@@ -7000,7 +7155,7 @@
     "longitude": -2.977726082
   },
   "LKE": {
-    "station_name": "Lake (Isle of Wight)",
+    "station_name": "Lake",
     "latitude": 50.6464632785,
     "longitude": -1.1663386012
   },
@@ -7068,6 +7223,11 @@
     "station_name": "Llandrindod",
     "latitude": 52.2423682996,
     "longitude": -3.3791453356
+  },
+  "LLP": {
+    "station_name": "Lynmouth (Bus)",
+    "latitude": null,
+    "longitude": null
   },
   "LLR": {
     "station_name": "Llanharan",
@@ -7484,6 +7644,11 @@
     "latitude": 54.5791171412,
     "longitude": -1.2347318713
   },
+  "MBT": {
+    "station_name": "Marsh Barton",
+    "latitude": 50.7063522001,
+    "longitude": -3.5207435001
+  },
   "MCB": {
     "station_name": "Moulsecoomb",
     "latitude": 50.846714382,
@@ -7730,7 +7895,7 @@
     "longitude": 0.7833551606
   },
   "MLB": {
-    "station_name": "Millbrook (Beds)",
+    "station_name": "Millbrook (Bedfordshire)",
     "latitude": 52.0538457297,
     "longitude": -0.5326807632
   },
@@ -7814,6 +7979,11 @@
     "latitude": 53.394793603,
     "longitude": -3.1714362959
   },
+  "MNS": {
+    "station_name": "Maghull North",
+    "latitude": 53.5160000001,
+    "longitude": -2.9220000001
+  },
   "MOB": {
     "station_name": "Mobberley",
     "latitude": 53.3291537972,
@@ -7849,6 +8019,11 @@
     "latitude": 51.3951937788,
     "longitude": -0.2395071447
   },
+  "MOV": {
+    "station_name": "Moseley Village",
+    "latitude": 52.4458200001,
+    "longitude": -1.8845100001
+  },
   "MPK": {
     "station_name": "Mosspark",
     "latitude": 55.8408228806,
@@ -7880,7 +8055,7 @@
     "longitude": -2.9891877739
   },
   "MRN": {
-    "station_name": "Marden",
+    "station_name": "Marden (Kent)",
     "latitude": 51.1751727189,
     "longitude": 0.4931989357
   },
@@ -7903,6 +8078,11 @@
     "station_name": "Moreton (Merseyside)",
     "latitude": 53.4072225806,
     "longitude": -3.1134999967
+  },
+  "MRW": {
+    "station_name": "Meridian Water",
+    "latitude": 51.6110012001,
+    "longitude": -0.0493156001
   },
   "MRY": {
     "station_name": "Maryport",
@@ -7930,7 +8110,7 @@
     "longitude": -2.0412799663
   },
   "MSN": {
-    "station_name": "Marsden",
+    "station_name": "Marsden (Yorks)",
     "latitude": 53.6031989506,
     "longitude": -1.9307489058
   },
@@ -8023,11 +8203,6 @@
     "station_name": "Musselburgh",
     "latitude": 55.9335850009,
     "longitude": -3.0732054363
-  },
-  "MUF": {
-    "station_name": "Manchester United FC",
-    "latitude": 53.4622084856,
-    "longitude": -2.290652901
   },
   "MUI": {
     "station_name": "Muirend",
@@ -8194,6 +8369,11 @@
     "latitude": 55.9331154017,
     "longitude": -3.0908472906
   },
+  "NEY": {
+    "station_name": "Newcastle Emlyn Cattle Mkt",
+    "latitude": null,
+    "longitude": null
+  },
   "NFA": {
     "station_name": "North Fambridge",
     "latitude": 51.6485874442,
@@ -8290,7 +8470,7 @@
     "longitude": 1.0552904861
   },
   "NNG": {
-    "station_name": "Newark North Gate",
+    "station_name": "Newark Northgate",
     "latitude": 53.0817767766,
     "longitude": -0.7998511914
   },
@@ -8308,6 +8488,11 @@
     "station_name": "Newton-on-Ayr",
     "latitude": 55.4740529017,
     "longitude": -4.6258056575
+  },
+  "NOP": {
+    "station_name": "Northumberland Park (Tyne and Wear)",
+    "latitude": 55.0330889877,
+    "longitude": -1.5199112892
   },
   "NOR": {
     "station_name": "Normanton",
@@ -8345,7 +8530,7 @@
     "longitude": -1.3077799439
   },
   "NRD": {
-    "station_name": "North Road",
+    "station_name": "North Road (Darlington)",
     "latitude": 54.5362092283,
     "longitude": -1.5539587211
   },
@@ -8405,7 +8590,7 @@
     "longitude": -1.3418931628
   },
   "NTN": {
-    "station_name": "Newton (S Lanarks)",
+    "station_name": "Newton (Lanark)",
     "latitude": 55.8187724129,
     "longitude": -4.1330414607
   },
@@ -8420,7 +8605,7 @@
     "longitude": -0.1325049602
   },
   "NUM": {
-    "station_name": "Northumberland Park",
+    "station_name": "Northumberland Park London",
     "latitude": 51.6019688995,
     "longitude": -0.0539069251
   },
@@ -8469,6 +8654,11 @@
     "latitude": 51.9798767674,
     "longitude": 0.2151664222
   },
+  "NWH": {
+    "station_name": "Newsham",
+    "latitude": 55.1032792101,
+    "longitude": -1.5243134206
+  },
   "NWI": {
     "station_name": "Northwich",
     "latitude": 53.2614653974,
@@ -8485,7 +8675,7 @@
     "longitude": -2.0671424184
   },
   "NWP": {
-    "station_name": "Newport (S Wales)",
+    "station_name": "Newport (South Wales)",
     "latitude": 51.5887891555,
     "longitude": -3.0005496511
   },
@@ -8500,12 +8690,12 @@
     "longitude": -3.3113949158
   },
   "NWX": {
-    "station_name": "New Cross ELL",
+    "station_name": "New Cross",
     "latitude": 51.4763425048,
     "longitude": -0.0324150961
   },
   "NXG": {
-    "station_name": "New Cross Gate ELL",
+    "station_name": "New Cross Gate",
     "latitude": 51.4751271677,
     "longitude": -0.0403876579
   },
@@ -8528,6 +8718,11 @@
     "station_name": "Okehampton",
     "latitude": 50.7323709771,
     "longitude": -3.9962371646
+  },
+  "OKI": {
+    "station_name": "Okehampton Interchange",
+    "latitude": 50.7434635631,
+    "longitude": -3.9759205883
   },
   "OKL": {
     "station_name": "Oakleigh Park",
@@ -8794,6 +8989,11 @@
     "latitude": 50.4347023859,
     "longitude": -3.5648917612
   },
+  "PGR": {
+    "station_name": "Penygroes Co-Op",
+    "latitude": null,
+    "longitude": null
+  },
   "PHG": {
     "station_name": "Penhelig",
     "latitude": 52.5457006306,
@@ -8813,6 +9013,11 @@
     "station_name": "Pinhoe",
     "latitude": 50.7377726757,
     "longitude": -3.469346888
+  },
+  "PIR": {
+    "station_name": "Pineapple Road",
+    "latitude": 52.4299900001,
+    "longitude": -1.9096600001
   },
   "PIT": {
     "station_name": "Pitlochry",
@@ -8944,6 +9149,11 @@
     "latitude": 51.6589262669,
     "longitude": -4.7220868534
   },
+  "PNC": {
+    "station_name": "Penychain",
+    "latitude": 52.9028820001,
+    "longitude": -4.3387200001
+  },
   "PNE": {
     "station_name": "Penge East",
     "latitude": 51.4193314862,
@@ -8965,7 +9175,7 @@
     "longitude": -5.0832395818
   },
   "PNR": {
-    "station_name": "Penrith North Lakes",
+    "station_name": "Penrith (North Lakes)",
     "latitude": 54.6618111812,
     "longitude": -2.7588851525
   },
@@ -8980,7 +9190,7 @@
     "longitude": -0.060813969
   },
   "PNY": {
-    "station_name": "Pen-y-Bont",
+    "station_name": "Pen-y-Bont (Mid Wales)",
     "latitude": 52.2739523227,
     "longitude": -3.3219364345
   },
@@ -9040,7 +9250,7 @@
     "longitude": -3.0142431288
   },
   "PRA": {
-    "station_name": "Prestwick Intl Airport",
+    "station_name": "Prestwick International Airport",
     "latitude": 55.5090345152,
     "longitude": -4.6141499438
   },
@@ -9050,7 +9260,7 @@
     "longitude": -2.1454808763
   },
   "PRE": {
-    "station_name": "Preston",
+    "station_name": "Preston (Lancs)",
     "latitude": 53.7568736745,
     "longitude": -2.7081248286
   },
@@ -9058,6 +9268,11 @@
     "station_name": "Penrhyndeudraeth",
     "latitude": 52.9288395107,
     "longitude": -4.0645697821
+  },
+  "PRI": {
+    "station_name": "Portway Park & Ride",
+    "latitude": 51.4901288001,
+    "longitude": -2.6888666001
   },
   "PRL": {
     "station_name": "Prittlewell",
@@ -9200,7 +9415,7 @@
     "longitude": -4.335284571
   },
   "PTW": {
-    "station_name": "Prestwick",
+    "station_name": "Prestwick Town",
     "latitude": 55.5016967612,
     "longitude": -4.6151361015
   },
@@ -9270,7 +9485,7 @@
     "longitude": -3.6980690341
   },
   "PYN": {
-    "station_name": "Penryn",
+    "station_name": "Penryn (Cornwall)",
     "latitude": 50.1706984329,
     "longitude": -5.111654776
   },
@@ -9289,6 +9504,11 @@
     "latitude": 51.4156380311,
     "longitude": 0.7496958334
   },
+  "QMZ": {
+    "station_name": "Metro Tyne & Wear Zone A",
+    "latitude": null,
+    "longitude": null
+  },
   "QPK": {
     "station_name": "Queens Park (Glasgow)",
     "latitude": 55.8352982505,
@@ -9305,7 +9525,7 @@
     "longitude": -0.146653366
   },
   "QRP": {
-    "station_name": "Queens Road Peckham",
+    "station_name": "Queens Road (Peckham)",
     "latitude": 51.4735650429,
     "longitude": -0.057287956
   },
@@ -9345,7 +9565,7 @@
     "longitude": -0.4566002495
   },
   "RAV": {
-    "station_name": "Ravenglass",
+    "station_name": "Ravenglass for Eskdale",
     "latitude": 54.355714451,
     "longitude": -3.4088152992
   },
@@ -9358,11 +9578,6 @@
     "station_name": "Robertsbridge",
     "latitude": 50.9849282663,
     "longitude": 0.468811527
-  },
-  "RBS": {
-    "station_name": "British Steel Redcar",
-    "latitude": 54.6099002966,
-    "longitude": -1.1126759256
   },
   "RCA": {
     "station_name": "Risca & Pontymister",
@@ -9390,7 +9605,7 @@
     "longitude": -2.5991255269
   },
   "RDB": {
-    "station_name": "Redbridge (Hants)",
+    "station_name": "Redbridge",
     "latitude": 50.919929763,
     "longitude": -1.4701514648
   },
@@ -9405,7 +9620,7 @@
     "longitude": -0.0993606073
   },
   "RDF": {
-    "station_name": "Radcliffe (Notts)",
+    "station_name": "Radcliffe (Nottinghamshire)",
     "latitude": 52.948803948,
     "longitude": -1.0373248467
   },
@@ -9489,6 +9704,11 @@
     "latitude": 52.7696708266,
     "longitude": -1.9298468285
   },
+  "RGP": {
+    "station_name": "Reading Green Park",
+    "latitude": 51.4266639001,
+    "longitude": -0.9996331001
+  },
   "RGT": {
     "station_name": "Rugeley Town",
     "latitude": 52.7543925458,
@@ -9515,7 +9735,7 @@
     "longitude": -3.4891071986
   },
   "RHM": {
-    "station_name": "Reedham (Surrey)",
+    "station_name": "Reedham (London)",
     "latitude": 51.3311168831,
     "longitude": -0.1233901081
   },
@@ -9530,7 +9750,7 @@
     "longitude": -3.2893087685
   },
   "RIA": {
-    "station_name": "Rhoose",
+    "station_name": "Rhoose Cardiff International Airport",
     "latitude": 51.3870636406,
     "longitude": -3.3493952024
   },
@@ -9605,7 +9825,7 @@
     "longitude": -2.7663996705
   },
   "RNM": {
-    "station_name": "Rainham (London)",
+    "station_name": "Rainham (Essex)",
     "latitude": 51.5167228766,
     "longitude": 0.1906626283
   },
@@ -9669,6 +9889,11 @@
     "latitude": 53.4565936753,
     "longitude": -2.1730866723
   },
+  "RRN": {
+    "station_name": "Robroyston",
+    "latitude": 55.8874380001,
+    "longitude": -4.1727470001
+  },
   "RSG": {
     "station_name": "Rose Grove",
     "latitude": 53.786206105,
@@ -9678,6 +9903,16 @@
     "station_name": "Rose Hill Marple",
     "latitude": 53.3962378581,
     "longitude": -2.0765205539
+  },
+  "RSN": {
+    "station_name": "Reston",
+    "latitude": 55.8506000001,
+    "longitude": -2.1972000001
+  },
+  "RTI": {
+    "station_name": "Ruthin War Memorial",
+    "latitude": null,
+    "longitude": null
   },
   "RTN": {
     "station_name": "Renton",
@@ -9750,7 +9985,7 @@
     "longitude": -1.1596052649
   },
   "RYE": {
-    "station_name": "Rye",
+    "station_name": "Rye (Sussex)",
     "latitude": 50.9523651368,
     "longitude": 0.7307262415
   },
@@ -9994,6 +10229,11 @@
     "latitude": 51.5233750963,
     "longitude": -0.0752198072
   },
+  "SDD": {
+    "station_name": "St Davids New Street",
+    "latitude": null,
+    "longitude": null
+  },
   "SDE": {
     "station_name": "Shadwell",
     "latitude": 51.5112835169,
@@ -10054,11 +10294,6 @@
     "latitude": 54.839061911,
     "longitude": -1.3463511926
   },
-  "SEB": {
-    "station_name": "Seaburn",
-    "latitude": 54.929542046,
-    "longitude": -1.3867070759
-  },
   "SEC": {
     "station_name": "Seaton Carew",
     "latitude": 54.6583208071,
@@ -10075,7 +10310,7 @@
     "longitude": 0.0306695579
   },
   "SEF": {
-    "station_name": "Seaford",
+    "station_name": "Seaford Sussex",
     "latitude": 50.7728366774,
     "longitude": 0.100161285
   },
@@ -10088,6 +10323,11 @@
     "station_name": "Shoreham (Kent)",
     "latitude": 51.3322156624,
     "longitude": 0.1889169828
+  },
+  "SEJ": {
+    "station_name": "Seaton Delaval",
+    "latitude": 55.0759071001,
+    "longitude": -1.5367301001
   },
   "SEL": {
     "station_name": "Sellafield",
@@ -10163,6 +10403,11 @@
     "station_name": "Smethwick Galton Bridge",
     "latitude": 52.5017945032,
     "longitude": -1.9805048854
+  },
+  "SGE": {
+    "station_name": "Swanage",
+    "latitude": null,
+    "longitude": null
   },
   "SGL": {
     "station_name": "South Gyle",
@@ -10275,7 +10520,7 @@
     "longitude": -1.3277625973
   },
   "SHY": {
-    "station_name": "Shipley",
+    "station_name": "Shipley (Yorks)",
     "latitude": 53.8330646823,
     "longitude": -1.7734929691
   },
@@ -10330,12 +10575,12 @@
     "longitude": -5.4779638071
   },
   "SJP": {
-    "station_name": "St James Park (Devon)",
+    "station_name": "St James Park (Exeter)",
     "latitude": 50.7311433327,
     "longitude": -3.522008373
   },
   "SJS": {
-    "station_name": "St James Street (London)",
+    "station_name": "St James Street (Walthamstow)",
     "latitude": 51.5809810952,
     "longitude": -0.0328918555
   },
@@ -10454,13 +10699,8 @@
     "latitude": 53.6332679916,
     "longitude": -2.1135014139
   },
-  "SMC": {
-    "station_name": "Sampford Courtenay",
-    "latitude": 50.7700908969,
-    "longitude": -3.9489125512
-  },
   "SMD": {
-    "station_name": "Stamford",
+    "station_name": "Stamford (Lincs)",
     "latitude": 52.6478489455,
     "longitude": -0.4801041079
   },
@@ -10515,12 +10755,12 @@
     "longitude": -1.4814212432
   },
   "SND": {
-    "station_name": "Sandhurst",
+    "station_name": "Sandhurst (Berks)",
     "latitude": 51.3469294691,
     "longitude": -0.8045742694
   },
   "SNE": {
-    "station_name": "Stone",
+    "station_name": "Stone (Staffs)",
     "latitude": 52.9083405003,
     "longitude": -2.1550394406
   },
@@ -10545,7 +10785,7 @@
     "longitude": -1.0284631537
   },
   "SNK": {
-    "station_name": "Sankey for Penketh",
+    "station_name": "Sankey For Penketh",
     "latitude": 53.392475627,
     "longitude": -2.6504695097
   },
@@ -10629,6 +10869,11 @@
     "latitude": 55.6924175451,
     "longitude": -2.8659523944
   },
+  "SOJ": {
+    "station_name": "Soham",
+    "latitude": 52.3341390001,
+    "longitude": 0.3276940001
+  },
   "SOK": {
     "station_name": "South Kenton",
     "latitude": 51.5702144388,
@@ -10650,7 +10895,7 @@
     "longitude": -1.9447229013
   },
   "SOO": {
-    "station_name": "Strood",
+    "station_name": "Strood (Kent)",
     "latitude": 51.3965463718,
     "longitude": 0.5002161998
   },
@@ -10690,7 +10935,7 @@
     "longitude": -0.1568731307
   },
   "SPB": {
-    "station_name": "Shepherds Bush",
+    "station_name": "Shepherd's Bush",
     "latitude": 51.505284273,
     "longitude": -0.2176304274
   },
@@ -10785,7 +11030,7 @@
     "longitude": -2.5662177437
   },
   "SRG": {
-    "station_name": "Seer Green",
+    "station_name": "Seer Green & Jordans",
     "latitude": 51.6098457593,
     "longitude": -0.6077986309
   },
@@ -10800,7 +11045,7 @@
     "longitude": -1.8373837238
   },
   "SRL": {
-    "station_name": "Shirley",
+    "station_name": "Shirley (West Midlands)",
     "latitude": 52.4034335801,
     "longitude": -1.8451727358
   },
@@ -10839,6 +11084,11 @@
     "latitude": 51.5309751312,
     "longitude": 0.7953748853
   },
+  "SSA": {
+    "station_name": "Southease A26",
+    "latitude": null,
+    "longitude": null
+  },
   "SSC": {
     "station_name": "Seascale",
     "latitude": 54.3958826629,
@@ -10850,7 +11100,7 @@
     "longitude": 0.2608429847
   },
   "SSE": {
-    "station_name": "Shoreham-by-Sea (Sussex)",
+    "station_name": "Shoreham-by-Sea",
     "latitude": 50.8344187806,
     "longitude": -0.2716932437
   },
@@ -10885,7 +11135,7 @@
     "longitude": -2.2193787757
   },
   "STE": {
-    "station_name": "Streatham",
+    "station_name": "Streatham (Greater London)",
     "latitude": 51.425806399,
     "longitude": -0.1315244629
   },
@@ -10974,11 +11224,6 @@
     "latitude": 52.20679123,
     "longitude": -1.7308347436
   },
-  "STZ": {
-    "station_name": "St Peters",
-    "latitude": 54.9114465319,
-    "longitude": -1.3838157241
-  },
   "SUC": {
     "station_name": "Sutton Common",
     "latitude": 51.374887892,
@@ -11050,7 +11295,7 @@
     "longitude": 0.0971266259
   },
   "SVL": {
-    "station_name": "Staveley",
+    "station_name": "Staveley (Cumbria)",
     "latitude": 54.3755397414,
     "longitude": -2.8188650127
   },
@@ -11085,7 +11330,7 @@
     "longitude": -1.3763987158
   },
   "SWI": {
-    "station_name": "Swindon",
+    "station_name": "Swindon (Wilts)",
     "latitude": 51.5654717291,
     "longitude": -1.7854997597
   },
@@ -11150,7 +11395,7 @@
     "longitude": -2.0627406537
   },
   "SYD": {
-    "station_name": "Sydenham",
+    "station_name": "Sydenham (London)",
     "latitude": 51.4272456275,
     "longitude": -0.0542181492
   },
@@ -11234,6 +11479,11 @@
     "latitude": 51.1169179407,
     "longitude": -0.1611569978
   },
+  "TBR": {
+    "station_name": "Tilbury Riverside",
+    "latitude": null,
+    "longitude": null
+  },
   "TBW": {
     "station_name": "Tunbridge Wells",
     "latitude": 51.1302300678,
@@ -11244,13 +11494,18 @@
     "latitude": 54.5592813582,
     "longitude": -1.3014251552
   },
+  "TCR": {
+    "station_name": "Tottenham Court Road (Elizabeth line)",
+    "latitude": 51.5162833691,
+    "longitude": -0.1305881573
+  },
   "TDU": {
     "station_name": "Tondu",
     "latitude": 51.547362229,
     "longitude": -3.5955651626
   },
   "TEA": {
-    "station_name": "Tees-side Airport",
+    "station_name": "Teesside Airport",
     "latitude": 54.5181424575,
     "longitude": -1.4253223693
   },
@@ -11334,6 +11589,11 @@
     "latitude": 50.9105671531,
     "longitude": -2.5789881669
   },
+  "THP": {
+    "station_name": "Thanet Parkway",
+    "latitude": 51.3324511001,
+    "longitude": 1.3579215001
+  },
   "THS": {
     "station_name": "Thurso",
     "latitude": 58.5901618735,
@@ -11365,7 +11625,7 @@
     "longitude": -2.0656957349
   },
   "TIR": {
-    "station_name": "Tir-phil",
+    "station_name": "Tir-Phil",
     "latitude": 51.720908438,
     "longitude": -3.2463907704
   },
@@ -11390,7 +11650,7 @@
     "longitude": -1.0297956661
   },
   "TLK": {
-    "station_name": "The Lakes",
+    "station_name": "The Lakes (Warks)",
     "latitude": 52.3591567803,
     "longitude": -1.8446654141
   },
@@ -11500,7 +11760,7 @@
     "longitude": -3.5363140662
   },
   "TRD": {
-    "station_name": "Troed-y-Rhiw",
+    "station_name": "Troed-y-rhiw",
     "latitude": 51.7124284343,
     "longitude": -3.3467559182
   },
@@ -11685,7 +11945,7 @@
     "longitude": -3.9829094548
   },
   "UNI": {
-    "station_name": "University",
+    "station_name": "University (Birmingham)",
     "latitude": 52.4512550606,
     "longitude": -1.9366781951
   },
@@ -11705,7 +11965,7 @@
     "longitude": 0.2509114423
   },
   "UPT": {
-    "station_name": "Upton",
+    "station_name": "Upton (Merseyside)",
     "latitude": 53.3865027098,
     "longitude": -3.0841516558
   },
@@ -11795,7 +12055,7 @@
     "longitude": -2.9657463744
   },
   "WAR": {
-    "station_name": "Ware",
+    "station_name": "Ware (Herts)",
     "latitude": 51.8079649403,
     "longitude": -0.0287536426
   },
@@ -11813,6 +12073,11 @@
     "station_name": "Wavertree Technology Park",
     "latitude": 53.405206521,
     "longitude": -2.9229088929
+  },
+  "WAW": {
+    "station_name": "Warrington West",
+    "latitude": 53.3936110001,
+    "longitude": -2.6386110001
   },
   "WBC": {
     "station_name": "Waterbeach",
@@ -11860,12 +12125,12 @@
     "longitude": 0.0184203333
   },
   "WCF": {
-    "station_name": "Westcliff-on-Sea",
+    "station_name": "Westcliff",
     "latitude": 51.5373355032,
     "longitude": 0.6914948438
   },
   "WCH": {
-    "station_name": "Whitchurch (Hants)",
+    "station_name": "Whitchurch (Hampshire)",
     "latitude": 51.2375390314,
     "longitude": -1.3377316326
   },
@@ -12085,7 +12350,7 @@
     "longitude": -0.1911595369
   },
   "WHE": {
-    "station_name": "Whalley",
+    "station_name": "Whalley (Lancs)",
     "latitude": 53.8240295678,
     "longitude": -2.412253049
   },
@@ -12139,6 +12404,11 @@
     "latitude": 51.3099550362,
     "longitude": -0.0811212248
   },
+  "WIA": {
+    "station_name": "Willenhall",
+    "latitude": 52.5819200001,
+    "longitude": -2.0547500001
+  },
   "WIC": {
     "station_name": "Wickford",
     "latitude": 51.6150252316,
@@ -12173,6 +12443,11 @@
     "station_name": "Winchester",
     "latitude": 51.0672031347,
     "longitude": -1.3196880282
+  },
+  "WIR": {
+    "station_name": "Wirksworth",
+    "latitude": null,
+    "longitude": null
   },
   "WIV": {
     "station_name": "Wivenhoe",
@@ -12370,7 +12645,7 @@
     "longitude": -0.9069607416
   },
   "WNG": {
-    "station_name": "Waun-gron Park",
+    "station_name": "Waun-Gron Park",
     "latitude": 51.4881949213,
     "longitude": -3.2296615036
   },
@@ -12393,6 +12668,11 @@
     "station_name": "Wennington",
     "latitude": 54.1237145615,
     "longitude": -2.5875119193
+  },
+  "WNO": {
+    "station_name": "Winslow",
+    "latitude": 51.9485150001,
+    "longitude": -0.8870700001
   },
   "WNP": {
     "station_name": "Wanstead Park",
@@ -12464,6 +12744,11 @@
     "latitude": 50.681626061,
     "longitude": -2.2214563212
   },
+  "WOP": {
+    "station_name": "Worcestershire Parkway",
+    "latitude": 52.1558170001,
+    "longitude": -2.1614710001
+  },
   "WOR": {
     "station_name": "Worle",
     "latitude": 51.3580317777,
@@ -12510,7 +12795,7 @@
     "longitude": -2.8317175358
   },
   "WRM": {
-    "station_name": "Wareham",
+    "station_name": "Wareham (Dorset)",
     "latitude": 50.6928762389,
     "longitude": -2.1152411345
   },
@@ -12560,7 +12845,7 @@
     "longitude": -2.9069642345
   },
   "WSB": {
-    "station_name": "Westbury (Wilts)",
+    "station_name": "Westbury",
     "latitude": 51.2669801221,
     "longitude": -2.1991779411
   },
@@ -12620,7 +12905,7 @@
     "longitude": -0.6154196587
   },
   "WTC": {
-    "station_name": "Whitchurch (Shrops)",
+    "station_name": "Whitchurch (Shropshire)",
     "latitude": 52.9680723073,
     "longitude": -2.6716975313
   },
@@ -12650,12 +12935,12 @@
     "longitude": -4.6144179575
   },
   "WTM": {
-    "station_name": "Witham (Essex)",
+    "station_name": "Witham",
     "latitude": 51.8059754077,
     "longitude": 0.6391569064
   },
   "WTN": {
-    "station_name": "Whitton",
+    "station_name": "Whitton (London)",
     "latitude": 51.4496053939,
     "longitude": -0.3576601374
   },
@@ -12699,6 +12984,11 @@
     "latitude": 51.4899075996,
     "longitude": 0.0692207097
   },
+  "WWC": {
+    "station_name": "Woolwich (Elizabeth line)",
+    "latitude": 51.4915780001,
+    "longitude": 0.0718190001
+  },
   "WWD": {
     "station_name": "Woolwich Dockyard",
     "latitude": 51.4911257712,
@@ -12710,7 +13000,7 @@
     "longitude": -0.01440507
   },
   "WWL": {
-    "station_name": "Whitwell (Derbys)",
+    "station_name": "Whitwell (Derbyshire)",
     "latitude": 53.2799805667,
     "longitude": -1.2002056127
   },
@@ -12758,6 +13048,26 @@
     "station_name": "Wythall",
     "latitude": 52.3799491076,
     "longitude": -1.8655274464
+  },
+  "XAE": {
+    "station_name": "Abingdon (via Didcot) Bus",
+    "latitude": null,
+    "longitude": null
+  },
+  "XDC": {
+    "station_name": "Wantage (Bus)",
+    "latitude": null,
+    "longitude": null
+  },
+  "XFI": {
+    "station_name": "East Midlands Airport via NOT (By Bus)",
+    "latitude": null,
+    "longitude": null
+  },
+  "XQB": {
+    "station_name": "East Midlands Airport via LGE (By Bus)",
+    "latitude": null,
+    "longitude": null
   },
   "YAE": {
     "station_name": "Yate",
@@ -12840,7 +13150,7 @@
     "longitude": -0.0496935895
   },
   "ZFD": {
-    "station_name": "Farringdon (London)",
+    "station_name": "Farringdon",
     "latitude": 51.5201671742,
     "longitude": -0.1051789136
   },
@@ -12848,10 +13158,5 @@
     "station_name": "Whitechapel",
     "latitude": 51.5194686455,
     "longitude": -0.0597305213
-  },
-  "ZZT": {
-    "station_name": "Lintley",
-    "latitude": 54.853558347,
-    "longitude": -2.4883171256
   }
 }
