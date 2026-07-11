@@ -25,5 +25,8 @@ I couldn't find this information as a complete downloadable set from anywhere on
 
 If you think this data can be improved or modified, please send pull request.
 
+## Thanks
+Thanks to @xmac1701, @jwestw and @process404 for their pull requests and changes to the project.
+
 
 
